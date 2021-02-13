@@ -2,6 +2,7 @@ import { Layout } from "antd";
 import "antd/dist/antd.css";
 import { useEffect, useState } from "react";
 import axios from 'axios';
+import CommitCard from './commitCard'
 const { Header, Footer, Content } = Layout;
 
 function HomeLayout() {
@@ -29,7 +30,7 @@ function HomeLayout() {
   return (
     <Layout>
       <Header>Header</Header>
-      <Content>Content</Content>
+      <Content><CommitCard commitData={commitData}/></Content>
       <Footer>Footer</Footer>
     </Layout>
   );
