@@ -5,25 +5,27 @@ import axios from 'axios';
 const { Header, Footer, Content } = Layout;
 
 function HomeLayout() {
+  const [isLoading, setLoading] = useState(true)
   const [commitData, setCommitData] = useState();
 
   useEffect(() => {
     getAllData()
-  }, []);
+  },[isLoading]);
 
-  const getAllData = () => {
+  async function getAllData(){
     const URL = "https://api.github.com/repos/JHaydenDev/Github-Commit-Tool/commits"   // /repos/{owner}/{repo}/commits;
     axios
       .get(`${URL}`)
       .then((response) => {
-          const allData = response;
+          const allData = response.data;
           setCommitData(allData);
-          console.log(commitData, "<------Commit Data")
+          console.log(commitData, "<------Commit Data");
+          setLoading(false);
       })
       .catch((error) => console.error(`Error: ${error}`));
   }
 
-
+  
   return (
     <Layout>
       <Header>Header</Header>
