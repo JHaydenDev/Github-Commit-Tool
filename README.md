@@ -1,5 +1,28 @@
 # Github-Commit-Tool
 
+I built this project as a take home test.  It utilizes the github API to monitor its own commit history.  To run this application your first will need to follow the following steps.
+
+1: Setup Option 2: Local Development Environment
+This is completely optional and not required for this tutorial!
+
+
+Optional: Instructions for following along locally using your preferred text editor
+This setup requires more work but allows you to complete the tutorial using an editor of your choice. Here are the steps to follow:
+
+1. Make sure you have a recent version of Node.js installed. You can find it here: https://nodejs.org/en/
+
+2. A Code Editor installed (if you plan on changing anything).  I reccommend VS Code: https://code.visualstudio.com/download
+
+3. The latest version of Git installed. Here:https://git-scm.com/downloads
+
+4.Clone the project via the link at the top.  `git clone `
+
+3. Now run yarn start in the project folder and open http://localhost:3000 in the browser, you should see an empty tic-tac-toe field.
+
+We recommend following these instructions to configure syntax highlighting for your editor.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
