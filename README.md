@@ -15,11 +15,11 @@ This setup requires more work but allows you to complete the tutorial using an e
 
 3. The latest version of Git installed. Here:https://git-scm.com/downloads
 
-4.Clone the project via the link at the top.  `git clone `
+4.Clone the project via your terminal.  `git clone https://github.com/JHaydenDev/Github-Commit-Tool.git`
 
-3. Now run yarn start in the project folder and open http://localhost:3000 in the browser, you should see an empty tic-tac-toe field.
+3. Now run `yarn start` in the project folder and open http://localhost:3000 in the browser, you should see the application running.
 
-We recommend following these instructions to configure syntax highlighting for your editor.
+
 
 
 
