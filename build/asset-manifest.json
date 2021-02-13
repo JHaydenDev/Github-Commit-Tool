@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.45bc7447.chunk.js",
-    "main.js.map": "/static/js/main.45bc7447.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9d6949f9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9d6949f9.js.map",
-    "static/css/2.4ee63354.chunk.css": "/static/css/2.4ee63354.chunk.css",
-    "static/js/2.574e0e91.chunk.js": "/static/js/2.574e0e91.chunk.js",
-    "static/js/2.574e0e91.chunk.js.map": "/static/js/2.574e0e91.chunk.js.map",
-    "static/js/3.470f8ef4.chunk.js": "/static/js/3.470f8ef4.chunk.js",
-    "static/js/3.470f8ef4.chunk.js.map": "/static/js/3.470f8ef4.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.4ee63354.chunk.css.map": "/static/css/2.4ee63354.chunk.css.map",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.574e0e91.chunk.js.LICENSE.txt": "/static/js/2.574e0e91.chunk.js.LICENSE.txt"
+    "main.css": "/JHaydenDev/Github-Commit-Tool/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/JHaydenDev/Github-Commit-Tool/static/js/main.f5293ef8.chunk.js",
+    "main.js.map": "/JHaydenDev/Github-Commit-Tool/static/js/main.f5293ef8.chunk.js.map",
+    "runtime-main.js": "/JHaydenDev/Github-Commit-Tool/static/js/runtime-main.63028d58.js",
+    "runtime-main.js.map": "/JHaydenDev/Github-Commit-Tool/static/js/runtime-main.63028d58.js.map",
+    "static/css/2.4ee63354.chunk.css": "/JHaydenDev/Github-Commit-Tool/static/css/2.4ee63354.chunk.css",
+    "static/js/2.708b9265.chunk.js": "/JHaydenDev/Github-Commit-Tool/static/js/2.708b9265.chunk.js",
+    "static/js/2.708b9265.chunk.js.map": "/JHaydenDev/Github-Commit-Tool/static/js/2.708b9265.chunk.js.map",
+    "static/js/3.470f8ef4.chunk.js": "/JHaydenDev/Github-Commit-Tool/static/js/3.470f8ef4.chunk.js",
+    "static/js/3.470f8ef4.chunk.js.map": "/JHaydenDev/Github-Commit-Tool/static/js/3.470f8ef4.chunk.js.map",
+    "index.html": "/JHaydenDev/Github-Commit-Tool/index.html",
+    "static/css/2.4ee63354.chunk.css.map": "/JHaydenDev/Github-Commit-Tool/static/css/2.4ee63354.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/JHaydenDev/Github-Commit-Tool/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.708b9265.chunk.js.LICENSE.txt": "/JHaydenDev/Github-Commit-Tool/static/js/2.708b9265.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d6949f9.js",
+    "static/js/runtime-main.63028d58.js",
     "static/css/2.4ee63354.chunk.css",
-    "static/js/2.574e0e91.chunk.js",
+    "static/js/2.708b9265.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.45bc7447.chunk.js"
+    "static/js/main.f5293ef8.chunk.js"
   ]
 }
