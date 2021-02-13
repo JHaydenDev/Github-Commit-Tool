@@ -3,7 +3,8 @@ import "antd/dist/antd.css";
 import { useEffect, useState } from "react";
 import axios from 'axios';
 import CommitCard from './commitCard'
-const { Header, Footer, Content } = Layout;
+import styled from "styled-components";
+const { Header, Content } = Layout;
 
 function HomeLayout() {
   const [isLoading, setLoading] = useState(true)
@@ -29,11 +30,16 @@ function HomeLayout() {
   
   return (
     <Layout>
-      <Header>Header</Header>
+      <HeaderBox>GitHub Commit Tracker (That tracks its own commits)</HeaderBox>
       <Content><CommitCard commitData={commitData}/></Content>
-      <Footer>Footer</Footer>
     </Layout>
   );
 }
 
 export default HomeLayout;
+
+
+const HeaderBox = styled(Header)`
+color: white;
+font-size: 1.5em;
+`;
