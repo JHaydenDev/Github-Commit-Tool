@@ -3,13 +3,6 @@
 I built this project as a take home test.  It utilizes the github API to monitor its own commit history.  To run this application your first will need to follow the following steps.
 
 
-1: Setup Option 2: Local Development Environment
-
-
-
-Optional: Instructions for following along locally using your preferred text editor
-This setup requires more work but allows you to complete the tutorial using an editor of your choice. Here are the steps to follow:
-
 1. Make sure you have a recent version of Node.js installed. You can find it here: https://nodejs.org/en/
 
 2. A Code Editor installed (if you plan on changing anything).  I reccommend VS Code: https://code.visualstudio.com/download
