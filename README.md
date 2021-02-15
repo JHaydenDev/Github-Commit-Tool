@@ -2,8 +2,9 @@
 
 I built this project as a take home test.  It utilizes the github API to monitor its own commit history.  To run this application your first will need to follow the following steps.
 
+
 1: Setup Option 2: Local Development Environment
-This is completely optional and not required for this tutorial!
+
 
 
 Optional: Instructions for following along locally using your preferred text editor
